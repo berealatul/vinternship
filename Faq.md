@@ -342,14 +342,14 @@ After completing all ViBe MERN modules:
 4. Try to understand each case study first, then attempt to code a solution for it.
 5. Open a code editor (for example, **VS Code**) and implement the tasks.
 5. Getting stuck is normal. You can ask questions on Cliq, revisit the ViBe videos, and discuss with others.
-7. Submit your work using the provided submission link.
+7. Submit your work using the provided [submission link](https://docs.google.com/forms/d/e/1FAIpQLSc8paXqKkIl95cFmZxOunoMjJFeB_jedPQ5_eEd3m0h_FQFLw/viewform).
 
 **9.4 What comes after Case Studies?**
 After completing case studies, you move ahead to the Endorsement phase. The Self-healing endorsement network is a peer evaluation strategy that the learner needs to accomplish before getting into the next phase. The learner is expected to take an endorsement from a peer and move ahead to the third component: **Practical Learning (Projects)**. Visit - [The Self-Healing Endorsement Network page](https://sudarshansudarshan.github.io/pinternship/endorsements/) to learn more about endorsements.
 
 **9.5 How do I submit the case studies?**  
 
-1. Visit the submission form: Will be updated soon.
+1. Visit the [submission form](https://docs.google.com/forms/d/e/1FAIpQLSc8paXqKkIl95cFmZxOunoMjJFeB_jedPQ5_eEd3m0h_FQFLw/viewform).
 2. Fill in all required details carefully, including:
    - First name and last name  
    - Email ID associated with the internship  
@@ -526,7 +526,7 @@ Endorsements are tracked using a **three-column dataset**:
 Possible actions:
 - **Add** → Member 1 endorsed Member 2  
 - **Delete** → Member 1 de-endorsed Member 2  
-- **Needs Improvement** → Member 1 is belongs to Needs Improvement category, Member 2 is the parent in the chain  
+- **Needs Improvement** → Member 1 belongs to the Needs Improvement category, Member 2 is the parent in the chain  
 
 This dataset is used to:
 - Track endorsement paths
@@ -537,8 +537,7 @@ This dataset is used to:
 **11.11 How do I submit endorsements? (Google Form instructions)**  
 All endorsements and de-endorsements must be submitted through the **official Google Form**:
 
-🔗 **Endorsement Form Link:**  
-TBD
+🔗 **Endorsement Form Link:**  [Click Here](https://forms.gle/LpaNWG9SiYzshCsw8)
 
 The form contains **mandatory sections**:
 1. **Endorser’s Name and Email**
